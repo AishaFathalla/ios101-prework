@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Click here for Youtube video of app walkthrough]([https://www.youtube.com/watch?v=GA92eKlYio4](https://youtu.be/IvwiOT66hsU))
+[Click here for Youtube video of app walkthrough](https://youtu.be/IvwiOT66hsU)
 
 
 ## App Brainstorming (Step 4)
