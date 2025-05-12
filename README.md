@@ -21,16 +21,13 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 1. Favorite apps and favortie features:
 - Snapchat:
-location sharing
-one time view pictures
+location sharing, one time view pictures
 
 - Telegram:
-scheduled messages
-chats archive
+scheduled messages, chats archive
 
 - Books:
-Saves progress
-folders and organization
+Saves progress, folders and organization
 
 2. App idea brainstorming:
 I want to build a simple productivity app that allows users to create to-do lists categorized by topics such as work, personal, or fitness. Tasks are visually embedded within a calendar, making it easy to see deadlines and plan ahead. Users can also share specific lists with friends or colleagues, enabling collaboration on shared tasks and projects.
